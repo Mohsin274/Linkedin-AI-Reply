@@ -82,7 +82,8 @@ For Firefox, use `npm run dev:firefox` instead.
 
 Here's a demonstration of the LinkedIn Reply Assistant Browser Extension in action:
 
-![Demo Video](demo/LinkedIn-AI-Reply-Demo.mp4)
+[![Demo Video](demo/LinkedIn-AI-Reply-Demo.mp4)](https://github.com/user-attachments/assets/ca3edf47-3b02-4f64-a957-ebe9fd7419a2
+)
 
 ## License
 
